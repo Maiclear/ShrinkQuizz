@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/resultBtn"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/PrimaryButton"
+    android:padding="14dp"
+    android:text="RESULTADOS"
+    android:layout_alignParentBottom="true"
+    android:textColor="@android:color/white"/>
+
