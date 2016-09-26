@@ -9,4 +9,17 @@
     <string name="cool">Cool</string>
     <string name="lucky">Lucky</string>
     <string name="match">Match</string>
+
+
+    <string name="first_quarter">Enero-Marzo</string>
+    <string name="second_quarter">Mayo-Junio</string>
+    <string name="third_quarter">Julio-Sept</string>
+    <string name="fourth_quarter">Oct-Dic</string>
+
+    <string-array name="quarters_array">
+        <item>@string/first_quarter</item>
+        <item>@string/second_quarter</item>
+        <item>@string/third_quarter</item>
+        <item>@string/fourth_quarter</item>
+    </string-array>
 </resources>
